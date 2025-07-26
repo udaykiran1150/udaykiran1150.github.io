@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm P. Sai Uday Kiran
+# 👋 Hi, I'm P. Sai Uday Kira
 
 📍 Srikakulam | 📧 [udaykiranponnaganti6@gmail.com](mailto:udaykiranponnaganti6@gmail.com) | 📞 9063571736  
 🌐 [My Website](https://myportfolio-gamma-tawny.vercel.app) | [LinkedIn](https://www.linkedin.com/in/ponnaganti-sai-uday-kiran-b2a0a7301) | [GitHub](https://github.com/udaykiran1150)
