@@ -84,7 +84,7 @@ CGPA: 9.8
 
 -  Postman Student Expert – Let's Upgrade (2024)  
 -  Git and GitHub – Let's Upgrade (2024)  
-- ☕Basics of Java – Udemy (2024)
+-  Basics of Java – Udemy (2024)
 
 ---
 
