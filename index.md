@@ -1,5 +1,5 @@
 ---
-title: Sai Uday Kiran Portfolio
+title: Sai Uday Kiran 
 ---
 
 # 👋 Hi, I'm P. Sai Uday Kiran
@@ -82,9 +82,9 @@ CGPA: 9.8
 
 ## 📜 Certifications
 
-- 🧪 Postman Student Expert – Let's Upgrade (2024)  
-- 🔧 Git and GitHub – Let's Upgrade (2024)  
-- ☕ Basics of Java – Udemy (2024)
+-  Postman Student Expert – Let's Upgrade (2024)  
+-  Git and GitHub – Let's Upgrade (2024)  
+- ☕Basics of Java – Udemy (2024)
 
 ---
 
