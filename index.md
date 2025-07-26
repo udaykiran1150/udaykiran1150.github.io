@@ -1,5 +1,5 @@
 ---
-title: Sai Uday Kiran Portfolio
+title: Sai Uday Kiran 
 ---
 
 # 👋 Hi, I'm P. Sai Uday Kiran
@@ -11,8 +11,7 @@ title: Sai Uday Kiran Portfolio
 
 ## 🧑‍💻 About Me
 
-I'm a full-stack web developer passionate about building scalable, API-driven web apps using the **MERN stack**.  
-With a strong foundation in **Java-based DSA**, I'm focused on solving real-world problems with clean, responsive UI and efficient backend logic.
+I'm a full-stack web developer passionate about building scalable, API-driven web apps using the **MERN stack**.  With a strong foundation in **Java-based DSA**, I'm focused on solving real-world problems with clean, responsive UI and efficient backend logic.
 
 ---
 
